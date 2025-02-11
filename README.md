@@ -2,7 +2,7 @@
 
 ### 📌 Requirements
 
-- ☕ Java : The whole code is written in Java
+- ☕ Java : The whole code is written in Java ( NO LIBRARY IS NEEDED, YOU CAN COMPILE SIMPLY USING javac ... EXECUTE with java ...)
 - 🧠 Basic knowledge of neural networks vs perceptrons
 - 🎯 What this project does?
 
